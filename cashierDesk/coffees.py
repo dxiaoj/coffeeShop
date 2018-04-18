@@ -1,8 +1,8 @@
 """
   project name : L&J's coffee shop
   author: Jay
-  date: 2018-04-08
-  version: 0.0.1
+  date: 2018-04-18
+  version: 0.0.2
 """
 
 coffee1Name = "black coffee"
