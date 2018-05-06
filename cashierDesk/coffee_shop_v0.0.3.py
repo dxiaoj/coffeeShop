@@ -2,12 +2,13 @@
   project name : L&J's coffee shop
   author: Jay
   date: 2018-05-06
-  version: 0.0.3
+  version: 0.0.6
   descriotion:
                 1) add function order_detail to restore order detail for each customer
                 2) add function money_for_order to calculate the whole price
                 3) add function order_print to print order
                 4) add function order_log to restore the order log
+                5) add function main to run the codes
 """
 
 # 记录每位顾客购买咖啡的过程中购买咖啡的种类与数量
